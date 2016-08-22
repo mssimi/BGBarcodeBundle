@@ -16,7 +16,6 @@
             "homepage": "https://github.com/paterik/BGBarcodeBundle/contributors"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5",
         "symfony/framework-bundle": ">=2.1",
